@@ -1,0 +1,10 @@
+C:\Users\abbas\source\repos\MLConsole\MLConsoleML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\abbas\source\repos\MLConsole\MLConsoleML.Model\bin\Debug\netstandard2.0\MLConsoleML.Model.deps.json
+C:\Users\abbas\source\repos\MLConsole\MLConsoleML.Model\bin\Debug\netstandard2.0\MLConsoleML.Model.dll
+C:\Users\abbas\source\repos\MLConsole\MLConsoleML.Model\bin\Debug\netstandard2.0\MLConsoleML.Model.pdb
+C:\Users\abbas\source\repos\MLConsole\MLConsoleML.Model\obj\Debug\netstandard2.0\MLConsoleML.Model.csprojAssemblyReference.cache
+C:\Users\abbas\source\repos\MLConsole\MLConsoleML.Model\obj\Debug\netstandard2.0\MLConsoleML.Model.AssemblyInfoInputs.cache
+C:\Users\abbas\source\repos\MLConsole\MLConsoleML.Model\obj\Debug\netstandard2.0\MLConsoleML.Model.AssemblyInfo.cs
+C:\Users\abbas\source\repos\MLConsole\MLConsoleML.Model\obj\Debug\netstandard2.0\MLConsoleML.Model.csproj.CoreCompileInputs.cache
+C:\Users\abbas\source\repos\MLConsole\MLConsoleML.Model\obj\Debug\netstandard2.0\MLConsoleML.Model.dll
+C:\Users\abbas\source\repos\MLConsole\MLConsoleML.Model\obj\Debug\netstandard2.0\MLConsoleML.Model.pdb
